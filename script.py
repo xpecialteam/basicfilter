@@ -49,16 +49,3 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @xpecialxhiller
-"""
-
-
-    ABOUT_MSG = """⭕️<b>My Name : @xpecialxhiller</b>
-
-⭕️<b>Creater :</b> @xpecialxhiller   
-
-⭕️<b>Language :</b> <code>Python3</code>
-
-
-
-"""
